@@ -8,9 +8,7 @@
 ### 详细项目设计 
 基本的框架图如下图所示
 
-  ![image](https://user-images.githubusercontent.com/2059536/145706083-fc5985a8-e2a4-4183-be18-8b8114dadaff.png)
-
-
+![This is an image](./assets/data-flow.png)
 
 
 
