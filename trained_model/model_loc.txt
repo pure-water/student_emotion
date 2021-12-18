@@ -1,1 +1,4 @@
+#Train epoch 65 -- 70% accuracy
 https://drive.google.com/file/d/1mk64VBLwSChztO79LHpdkMvajTLXsE0X/view?usp=sharing
+#Train epoch 120 -- 80% accuracy
+https://drive.google.com/file/d/1-9tWhl95CqosVsATLBLyXdNE18QNJFAr/view?usp=sharing
