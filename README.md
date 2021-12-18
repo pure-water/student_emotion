@@ -23,11 +23,17 @@
               layer.trainable = False
        for layer in resnet_model.layers[-75:]:  
               layer.trainable = True
-              
+ 
+ 
  - 模型结构如下 
     ![This is an image](./assets/resnet50.png)
+    
+ 
+ - 训练的Callback 函数如下设计
+    ![This is an image](./assets/callback.png)
 
-
+ - Training  function
+   ![This is an image](./assets/training.png)
 
 ### 基本数据
 
