@@ -18,10 +18,15 @@
 
 - 我们从Google Tensorflow 下载基于ImageNet 预训练好的Resnet 模型
 - 我们选择整个网络的末75层作为训练层，前面的层数都freeze 住
+
        for layer in resnet_model.layers:
-                layer.trainable = False
-       for layer in resnet_model.layers[-75:]:
-                layer.trainable = True
+              layer.trainable = False
+       for layer in resnet_model.layers[-75:]:  
+              layer.trainable = True
+              
+ - 模型结构如下 
+    ![This is an image](./assets/resnet50.png)
+
 
 
 ### 基本数据
